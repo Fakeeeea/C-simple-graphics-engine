@@ -81,3 +81,4 @@ This is a project I have had for a long time, finally had the time to put my han
 The graphics engine does NOT use a look-at matrix for camera movement. The rotations are applied to the whole world<br>
 A simple painters algorithm is used to draw the triangles, not z-depth buffer for simplicty<br>
 Any constructive criticism is appreticiated<br>
+Any imported OBJ file should be TRIANGULARIZED and with no added information other than vertex data (NO normals, etc)<br>
