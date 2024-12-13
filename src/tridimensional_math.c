@@ -1,6 +1,5 @@
 #include "tridimensional_math.h"
 #include <math.h>
-#include <stdio.h>
 
 hvec3 matrixhVectorMultiplication(mat4 m, hvec3 v)
 {
